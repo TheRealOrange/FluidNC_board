@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "fluidnc_board")(type "KiCad")(uri "${KIPRJMOD}/fluidnc_board.kicad_sym")(options "")(descr ""))
+)

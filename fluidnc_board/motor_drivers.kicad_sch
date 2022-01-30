@@ -1,0 +1,22 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid a27fbcca-b7ab-4dc2-81c6-8e67c44fac01)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 52.07 41.91) (size 30.48 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid f6a7fe1a-11f1-4160-8f8c-04a3ec4da628)
+    (property "Sheet name" "driver_x" (id 0) (at 52.07 41.1984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "driver_x.kicad_sch" (id 1) (at 52.07 71.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+)

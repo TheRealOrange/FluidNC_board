@@ -1,0 +1,79 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 182.88 62.23) (size 40.64 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 411ae353-442c-45cb-a1bd-bf9deb010d80)
+    (property "Sheet name" "motor_drivers" (id 0) (at 182.88 61.5184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "motor_drivers.kicad_sch" (id 1) (at 182.88 99.6446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80" (page "2"))
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628" (page "3"))
+  )
+
+  (symbol_instances
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/04267880-8ae7-4fcc-9842-da86e049b1d3"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/3c26703d-1bbb-494d-8012-9ef86a506a96"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/4fd734b9-1e6f-40cb-9c88-97ec11ea56b4"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/5b8789a8-de7c-4b79-a992-860d1f7f2416"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/0abf2a7a-7ddd-4b3f-b1bd-a9d2049fddd4"
+      (reference "D?") (unit 1) (value "B360") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/220ffdd7-3a1c-4ca9-a4b9-9857a7e744b9"
+      (reference "D?") (unit 1) (value "B360") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/85b4e8a6-008c-42cc-a0b0-6491006ee038"
+      (reference "D?") (unit 1) (value "B360") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/883fcbbe-6eb9-4fdd-ae6a-1092f9f2097b"
+      (reference "D?") (unit 1) (value "B360") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/9e17e624-fe1d-4f9d-8c4d-39817150f8b2"
+      (reference "D?") (unit 1) (value "B360") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/a4471cdd-ed78-40cd-b9e3-e1affdf4432d"
+      (reference "D?") (unit 1) (value "B360") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/b74fee5d-0e06-47d0-8dea-fc31043ca8ef"
+      (reference "D?") (unit 1) (value "B360") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/d3f84ed0-dc14-47d3-b8a7-3dc857093930"
+      (reference "D?") (unit 1) (value "B360") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/ff0f9474-7921-4017-99b3-080521425cdf"
+      (reference "D?") (unit 1) (value "B360") (footprint "Diode_SMD:D_SMA_Handsoldering")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/1e9bb4a8-93d2-4218-bafe-1b79b449fd73"
+      (reference "J?") (unit 1) (value "Conn_01x05_Female") (footprint "")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/5456126b-fd97-4f31-ba73-1eae38bac7da"
+      (reference "J?") (unit 1) (value "Screw_Terminal_01x04") (footprint "")
+    )
+    (path "/411ae353-442c-45cb-a1bd-bf9deb010d80/f6a7fe1a-11f1-4160-8f8c-04a3ec4da628/dd64de23-f859-428f-a732-e18e01786856"
+      (reference "U?") (unit 1) (value "TMC5160_SILENTSTEPSTICK") (footprint "grbl_board:TMC5160_SILENTSTEPSTICK")
+    )
+  )
+)
