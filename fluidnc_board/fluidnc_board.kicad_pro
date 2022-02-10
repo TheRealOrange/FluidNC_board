@@ -328,6 +328,34 @@
     [
       "f6a7fe1a-11f1-4160-8f8c-04a3ec4da628",
       "driver_x"
+    ],
+    [
+      "58eabbec-ba95-479f-b316-5dcc9482b7d1",
+      "driver_y"
+    ],
+    [
+      "04a6c528-c82a-4c2d-b1e2-922adffc267c",
+      "driver_z"
+    ],
+    [
+      "85e84d9c-d33a-42fe-961e-9d38ee8ee0f9",
+      "driver_e"
+    ],
+    [
+      "ef38a5ba-2d3d-4f0a-bcbd-62e2cfbf5d52",
+      "esp32"
+    ],
+    [
+      "65d2b04c-7df8-45f4-b0f8-c74a63d55843",
+      "i2so"
+    ],
+    [
+      "efb2fca5-6eb4-4222-ab01-e616e083c6c6",
+      "power_supply"
+    ],
+    [
+      "ea0f8378-248f-4922-af89-6fb6f3ac8355",
+      "switches"
     ]
   ],
   "text_variables": {}
