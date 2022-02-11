@@ -356,6 +356,14 @@
     [
       "ea0f8378-248f-4922-af89-6fb6f3ac8355",
       "switches"
+    ],
+    [
+      "254e7b1d-ed32-4049-82e9-383266ec4309",
+      "spindle_cntrl"
+    ],
+    [
+      "19626864-9820-4e9f-a8da-bd647dc35a10",
+      "outputs"
     ]
   ],
   "text_variables": {}
