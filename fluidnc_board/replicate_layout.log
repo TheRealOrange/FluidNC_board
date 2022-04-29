@@ -1,16 +1,71 @@
-02-16 17:09:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 659:Replicating footprints on sheet ['motor_drivers', 'driver_x']
-02-16 17:09:28 root 244:updating GUI with: 34
-02-16 17:09:28 root 244:updating GUI with: 34
-02-16 17:09:29 root 244:updating GUI with: 35
-02-16 17:09:29 root 244:updating GUI with: 36
-02-16 17:09:29 root 244:updating GUI with: 36
-02-16 17:09:29 root 244:updating GUI with: 37
-02-16 17:09:29 root 244:updating GUI with: 38
-02-16 17:09:29 root 244:updating GUI with: 39
-02-16 17:09:29 root 244:updating GUI with: 39
-02-16 17:09:30 root 244:updating GUI with: 40
-02-16 17:09:30 root 244:updating GUI with: 41
-02-16 17:09:30 root 244:updating GUI with: 42
-02-16 17:09:30 root 244:updating GUI with: 42
-02-16 17:09:30 root 244:updating GUI with: 43
-02-16 17:09:30 root 244:updating GUI with: 44
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Plugin executed on: 'linux'
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 300:Plugin executed with python version: '3.10.2 (main, Jan 15 2022, 19:56:27) [GCC 11.1.0]'
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 301:KiCad build version: (6.0.1)
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 302:Plugin version: 1.0.3
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 303:Frame repr: <wx._core.Frame object at 0x7f3f8380f880>
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 322:Preparing replicator with J18 as a reference
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 99:getting a list of all footprints on board
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 350:source anchor footprint is 'J18'
+Located on: ['motor_drivers', 'driver_e']
+With filenames: ['motor_drivers.kicad_sch', 'driver.kicad_sch']
+With sheet_id:['motor_drivers', 'driver_e']
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 357:Corresponding footprints are 
+[('J18', ['motor_drivers', 'driver_e']), ('J14', ['motor_drivers', 'driver_z']), ('J6', ['motor_drivers', 'driver_x']), ('J10', ['motor_drivers', 'driver_y'])]
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 369:Showing dialog
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 375:Toolbar position: wx.Point(1566, 82)
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 381:Dialog position: wx.Point(1202, 82)
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 320:constructing a list of sheets suitable for replication on level:'motor_drivers', file:'motor_drivers.kicad_sch'
+02-17 13:52:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 357:suitable sheets are:[]
+02-17 13:52:49 root 244:updating GUI with: 52
+02-17 13:52:49 root 244:updating GUI with: 53
+02-17 13:52:49 root 244:updating GUI with: 54
+02-17 13:52:49 root 244:updating GUI with: 55
+02-17 13:52:49 root 244:updating GUI with: 55
+02-17 13:52:49 root 244:updating GUI with: 56
+02-17 13:52:49 root 244:updating GUI with: 57
+02-17 13:52:49 root 244:updating GUI with: 57
+02-17 13:52:49 root 244:updating GUI with: 58
+02-17 13:52:49 root 244:updating GUI with: 59
+02-17 13:52:50 root 244:updating GUI with: 60
+02-17 13:52:50 root 244:updating GUI with: 60
+02-17 13:52:50 root 244:updating GUI with: 61
+02-17 13:52:50 root 244:updating GUI with: 62
+02-17 13:52:50 root 244:updating GUI with: 63
+02-17 13:52:50 root 244:updating GUI with: 63
+02-17 13:52:50 root 244:updating GUI with: 64
+02-17 13:52:50 root 244:updating GUI with: 65
+02-17 13:52:50 root 244:updating GUI with: 65
+02-17 13:52:50 root 244:updating GUI with: 66
+02-17 13:52:50 root 244:updating GUI with: 66
+02-17 13:52:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 659:Replicating footprints on sheet ['motor_drivers', 'driver_z']
+02-17 13:52:50 root 244:updating GUI with: 67
+02-17 13:52:50 root 244:updating GUI with: 68
+02-17 13:52:50 root 244:updating GUI with: 68
+02-17 13:52:50 root 244:updating GUI with: 69
+02-17 13:52:50 root 244:updating GUI with: 70
+02-17 13:52:50 root 244:updating GUI with: 71
+02-17 13:52:50 root 244:updating GUI with: 71
+02-17 13:52:50 root 244:updating GUI with: 72
+02-17 13:52:51 root 244:updating GUI with: 73
+02-17 13:52:51 root 244:updating GUI with: 73
+02-17 13:52:51 root 244:updating GUI with: 74
+02-17 13:52:51 root 244:updating GUI with: 75
+02-17 13:52:51 root 244:updating GUI with: 76
+02-17 13:52:51 root 244:updating GUI with: 76
+02-17 13:52:51 root 244:updating GUI with: 77
+02-17 13:52:51 root 244:updating GUI with: 78
+02-17 13:52:51 root 244:updating GUI with: 78
+02-17 13:52:51 root 244:updating GUI with: 79
+02-17 13:52:51 root 244:updating GUI with: 80
+02-17 13:52:51 root 244:updating GUI with: 81
+02-17 13:52:51 root 244:updating GUI with: 81
+02-17 13:52:51 root 244:updating GUI with: 82
+02-17 13:52:51 root 244:updating GUI with: 83
+02-17 13:52:51 root 244:updating GUI with: 84
+02-17 13:52:51 root 244:updating GUI with: 84
+02-17 13:52:51 root 244:updating GUI with: 85
+02-17 13:52:51 root 244:updating GUI with: 86
+02-17 13:52:51 root 244:updating GUI with: 86
+02-17 13:52:51 root 244:updating GUI with: 87
+02-17 13:52:52 root 244:updating GUI with: 88
+02-17 13:52:52 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 223:User canceled the dialog

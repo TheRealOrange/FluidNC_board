@@ -122,7 +122,8 @@
         0.0,
         0.25,
         0.35,
-        1.0
+        1.0,
+        2.5
       ],
       "via_dimensions": [
         {
@@ -482,6 +483,18 @@
     [
       "19626864-9820-4e9f-a8da-bd647dc35a10",
       "outputs"
+    ],
+    [
+      "2f7ce191-6c55-435a-b73a-ea741597ef66",
+      "regulator"
+    ],
+    [
+      "99d6bdd9-f3c7-4fe6-aae4-e577edd892a7",
+      "regulator1"
+    ],
+    [
+      "da7c1ab7-9377-452e-b56d-1504d6387726",
+      "regulator2"
     ]
   ],
   "text_variables": {}
